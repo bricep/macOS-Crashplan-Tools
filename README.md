@@ -4,4 +4,4 @@ Checks log files created by Crashplan for errors for reporting purposes (usually
 ## RestartCrashplan_Mac.sh
 This script stops and starts the Crashplan service on macOS
 
-These tools were used remotely via RMM tool
+These tools were used remotely via RMM tool several years ago and the file paths may no longer be used. 
